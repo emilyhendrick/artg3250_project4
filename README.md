@@ -1,4 +1,4 @@
-# artg3250_project4
+# Project 4: Mini Golf (Phineas and Ferb Theme)
 
 Emily Hendrick, Fridahan Basame
 <br/>
